@@ -15,7 +15,7 @@ I am an accomplished computer scientist with a strong proclivity for devising so
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,sass,tailwind,bootstrap,materialui,pug,babel,flask,fastapi,django,react,redux,nextjs,angular,vite,nodejs,express,nestjs,graphql,spring,mysql,postgres,sqlite,mongodb,elasticsearch,redis,firebase,aws,azure,vercel,docker,kubernetes,openshift,githubactions,prometheus,grafana,heroku,jest,selenium,bash,discord,eclipse,git,github,bitbucket,gitlab,redhat,linux,postman,stackoverflow,vscode,webstorm,notion,idea,adonis,bitbucket,blender,bevy,aws,atom,arduino,appwrite,apple,apollo,ansible,angular,mysql,lit,linkedin,mongodb,kali,kafka,jest,jenkins,instagram,htmx,discordjs,discordjs,d3,dart,debian,codepen,coffeescript,nestjs,netlify,mastodon,md,lua,linux,activitypub,ableton,aiscript&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,sass,tailwind,bootstrap,materialui,pug,babel,flask,fastapi,django,react,redux,nextjs,angular,vite,nodejs,express,nestjs,graphql,spring,mysql,postgres,sqlite,mongodb,elasticsearch,redis,firebase,aws,azure,vercel,docker,kubernetes,openshift,githubactions,prometheus,grafana,heroku,jest,selenium,bash,discord,eclipse,git,github,bitbucket,gitlab,redhat,linux,postman,stackoverflow,vscode,webstorm,notion,idea,adonis,bitbucket,blender,bevy,aws,atom,arduino,appwrite,apple,apollo,ansible,angular,mysql,lit,linkedin,rider,redux,pycharm,openstack,p5js,opencv,mongodb,kali,kafka,jest,jenkins,instagram,htmx,discordjs,discordjs,d3,dart,debian,codepen,coffeescript,nestjs,netlify,mastodon,md,lua,linux,activitypub,ableton,aiscript&theme=dark)](https://skillicons.dev)
  
 
 
@@ -37,5 +37,9 @@ I am an accomplished computer scientist with a strong proclivity for devising so
 ---
 [![](https://visitcount.itsvg.in/api?id=Dr-Strange-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+<p align="center">
+  copyrights © 2025 | <strong>XOST Studio</strong> & <strong>WNR Production Studio</strong> | All rights reserved.
+</p>
 
 
